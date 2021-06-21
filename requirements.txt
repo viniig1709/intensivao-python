@@ -1,0 +1,8 @@
+wheel
+jupyterlab
+pandas
+numpy
+sklearn
+matplotlib
+joblib
+pylint
