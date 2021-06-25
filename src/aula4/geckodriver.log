@@ -1,0 +1,11 @@
+1624577770873	geckodriver	INFO	Listening on 127.0.0.1:42493
+1624577771895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek4JEam"
+1624577773462	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek4JEam/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1624577776025	Marionette	INFO	Listening on port 44593
+1624577776124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624577782171	Marionette	INFO	Stopped listening on port 44593

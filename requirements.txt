@@ -12,4 +12,5 @@ openpyxl
 pyperclip
 plotly
 seaborn
+selenium
 pylint
